@@ -1,14 +1,23 @@
 # FGLabs
 
-Independent software projects by [Flavio Giacchetti](https://github.com/ATAC-Helicopter).
+**Independent software and developer tools by [Flavio Giacchetti](https://github.com/ATAC-Helicopter).**
 
-I build and maintain desktop applications and developer tools, with a focus on reliability, productivity, and clear workflows.
+A home for projects I build and maintain, focused on reliable desktop software and practical developer workflows.
 
-## Projects
+[Website](https://fglabs.dev) · [Contact](https://fglabs.dev/contact) · [Contributing](https://github.com/FGLabs-dev/.github/blob/main/CONTRIBUTING.md)
 
-- **[VaultSync](https://github.com/ATAC-Helicopter/VaultSync)** — Cross-platform backup and sync for local drives, NAS, and network storage.
-- **[Fadrio](https://github.com/ATAC-Helicopter/Fadrio)** — An application-centric PipeWire volume mixer for Linux, currently in public alpha.
+## Featured projects
 
-Explore the projects at **[fglabs.dev](https://fglabs.dev)**.
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **VaultSync** | Cross-platform backup and sync for local drives, NAS, and network storage. | [Source](https://github.com/ATAC-Helicopter/VaultSync) · [Downloads](https://github.com/ATAC-Helicopter/VaultSync/releases/latest) |
+| **Fadrio** | An application-centric PipeWire volume mixer for Linux, currently in public alpha. | [Source](https://github.com/ATAC-Helicopter/Fadrio) · [Releases](https://github.com/ATAC-Helicopter/Fadrio/releases) |
 
-For support and contributions, use the relevant project's issue tracker and contribution guidelines.
+## Get involved
+
+Bug reports and feature requests belong in the relevant project's issue tracker. Check its roadmap and contribution guide before starting substantial changes.
+
+- **General inquiries:** [inquiries@fglabs.dev](mailto:inquiries@fglabs.dev)
+- **Product support:** [support@fglabs.dev](mailto:support@fglabs.dev)
+- **Collaboration:** [collaboration@fglabs.dev](mailto:collaboration@fglabs.dev)
+- **Security reports:** Follow the project's security policy. Please keep vulnerabilities and sensitive logs out of public issues.
