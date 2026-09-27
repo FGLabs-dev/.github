@@ -12,7 +12,6 @@ A home for projects I build and maintain, focused on reliable desktop software a
 | --- | --- | --- |
 | **VaultSync** | Cross-platform backup and sync for local drives, NAS, and network storage. | [Source](https://github.com/ATAC-Helicopter/VaultSync) · [Downloads](https://github.com/ATAC-Helicopter/VaultSync/releases/latest) |
 | **Fadrio** | An application-centric PipeWire volume mixer for Linux, currently in public alpha. | [Source](https://github.com/FGLabs-dev/Fadrio) · [Releases](https://github.com/FGLabs-dev/Fadrio/releases) |
-
 | **HaulSense** | Native Linux ATS telemetry cockpit and DualSense immersion bridge; public alpha. | [Source](https://github.com/FGLabs-dev/HaulSense) · [Project](https://fglabs.dev/projects/haulsense) |
 | **Blueprints** | Local-first desktop release planning with signed artifacts. | [Source](https://github.com/FGLabs-dev/Blueprints) · [Project](https://fglabs.dev/projects/blueprints) |
 | **ProofRestore** | Backup recoverability verification and restore simulation demo. | [Source](https://github.com/FGLabs-dev/ProofRestore) · [Demo](https://proofrestore.vercel.app) |
