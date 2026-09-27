@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Private security report
+    url: https://github.com/FGLabs-dev/.github/blob/main/SECURITY.md
+    about: Report vulnerabilities privately; do not post sensitive logs or credentials.
+  - name: Product support
+    url: https://fglabs.dev/contact
+    about: Contact FG Labs for support or inquiries outside this issue tracker.
